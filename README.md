@@ -1,4 +1,3 @@
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FKsHxQ%2FbtsIBXzxCtM%2FRL8xURyDrvb6LICHZH9EE0%2Fimg.png"></img><br/>
 # LLM을 활용한 실전 AI 애플리케이션 개발
 ## LLM의 기본부터 모델 학습, 임베딩, 벡터 데이터베이스로 만드는 RAG까지
 
